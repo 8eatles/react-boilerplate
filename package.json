@@ -1,0 +1,14 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.0",
+  "description": "8eatles's react-typescript boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/8eatles/react-boilerplate.git",
+  "author": "8eatles <8eatles@naver.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
